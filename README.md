@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src="[https://ik.imagekit.io/dfw3q47dv0/the_power_of_dark_side_fPLL-vX6C.gif](https://media.tenor.com/PEmBNdMi1LIAAAAC/tomura-shigaraki-all-for-one.gif)" />
+  <img src="https://media.tenor.com/PEmBNdMi1LIAAAAC/tomura-shigaraki-all-for-one.gif" />
 </h1>
 
 ## 👋 Hello, visitor! May The Force be with you!
