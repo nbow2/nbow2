@@ -1,12 +1,8 @@
-### Hi there 👋
 
 
 
-<h1 align="center">
-  <img src="https://media.tenor.com/PEmBNdMi1LIAAAAC/tomura-shigaraki-all-for-one.gif" />
-</h1>
 
-## 👋 Hello, visitor! May The Force be with you!
+## 👋 Hello,
 
 
 
@@ -14,8 +10,8 @@ I'm Ahmed dafalla Mohamed a 22 year old CS software Engineer from sudan,  and I'
 
 - 🌱 I’m currently learning the Flutter devlpment | Dart |  VitaSDK | psvita Homebrew
 - 💬 Ask me about Javascript, Python/Django, C++/C#, Dart/Flutter,  SQLite/MySQL ,and so on.
-- 📫 How to reach me: [X](https://x.com/NBow0), [Email](nmawg22@gmail.com), [LinkedIn]()
-- ⚡ Fun fact: team work , anime , gamer
+- 📫 How to reach me: [Email](nmawg22@gmail.com), [LinkedIn]()
+- ⚡ Fun fact: team work ,gamer
 
 ---
 
